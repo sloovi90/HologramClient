@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloClientSide", "HoloClientSide.csproj", "{6A8759D8-6793-7E35-D8A7-62A607F3BB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloClientSide.Editor", "HoloClientSide.Editor.csproj", "{6738A9DF-EF0F-65E2-8DF3-EB020BCD3126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8759D8-6793-7E35-D8A7-62A607F3BB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8759D8-6793-7E35-D8A7-62A607F3BB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8759D8-6793-7E35-D8A7-62A607F3BB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8759D8-6793-7E35-D8A7-62A607F3BB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6738A9DF-EF0F-65E2-8DF3-EB020BCD3126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6738A9DF-EF0F-65E2-8DF3-EB020BCD3126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6738A9DF-EF0F-65E2-8DF3-EB020BCD3126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6738A9DF-EF0F-65E2-8DF3-EB020BCD3126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
